@@ -5,11 +5,12 @@ body {
 }
 
 h1 {
-  color: #FFC300;
-  border-bottom: 2px solid #FFC300;
+  color: #FF5733;
   font-variant: small-caps;
   font-size: 250%;
   text-align:center ;
+  background: radial-gradient(circle at center, white, #FF5733);
+  border-radius: 10px;
 }
 
 h2 {
@@ -38,6 +39,7 @@ img {
   border: 1px solid #FF5733;
   margin-left:auto;
   margin-right:auto;
+  padding-right: 4px;
 
 }
 
