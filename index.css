@@ -32,15 +32,13 @@ a:hover {
   border: none;
   vertical-align:top;
   padding-left: 8px;
-
+  padding-right: 4px;
 }
 
 img {
   border: 1px solid #FF5733;
   margin-left:auto;
   margin-right:auto;
-  padding-right: 4px;
-
 }
 
 table {
